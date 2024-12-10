@@ -1,3 +1,7 @@
-<a href="https://github.com/devxb/gurumeekinx">
-  <img src="https://render.gitanimals.org/farms/gurumeekinx"/>
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/gurumeekinx"
+  width="600"
+  height="300"
+/>
 </a>
